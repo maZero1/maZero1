@@ -4,10 +4,9 @@ Bem-vindo ao meu GitHub! Sou estudante de programação fascinado por tecnologia
 🚀 O Que Eu Faço
 Atualmente, estou focado em aprimorar minhas habilidades em Java, explorando conceitos de Programação Orientada a Objetos (POO). Tenho grande interesse em desenvolvimento de software e programação competitiva, estou sempre buscando maneiras de aplicar e aprimorar o que aprendo no curso e em projetos práticos.
 
-✨ Meus Interesses
+✨ Meus Interesses:
+
 Desenvolvimento Backend: Explorando como as coisas funcionam por trás das cenas.
-
 Inteligência Artificial: Fascinado pelo potencial dessas áreas.
-
 Resolução de Problemas: Adoro desafios e encontrar soluções eficientes.
 
