@@ -9,4 +9,4 @@ Atualmente, estou focado em aprimorar minhas habilidades em Java, explorando con
 - Inteligência Artificial: Fascinado pelo potencial dessas áreas.
 - Resolução de Problemas: Adoro desafios e encontrar soluções eficientes.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maZero1&layout=compact&theme=synthwave&card_width=500)](https://github.com/maZero1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maZero1&layout=compact&theme=merko&card_width=500)](https://github.com/maZero1/github-readme-stats)
