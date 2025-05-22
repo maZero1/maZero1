@@ -6,7 +6,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em Java, explorando con
 
 ✨ Meus Interesses:
 
-Desenvolvimento Backend: Explorando como as coisas funcionam por trás das cenas;
-Inteligência Artificial: Fascinado pelo potencial dessas áreas;
-Resolução de Problemas: Adoro desafios e encontrar soluções eficientes.
+- Desenvolvimento Backend: Explorando como as coisas funcionam por trás das cenas.
+- Inteligência Artificial: Fascinado pelo potencial dessas áreas.
+- Resolução de Problemas: Adoro desafios e encontrar soluções eficientes.
 
