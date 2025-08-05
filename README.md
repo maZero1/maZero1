@@ -7,7 +7,9 @@ I'm currently focused on improving my skills in Java, exploring Object-Oriented 
 ✨ My Interests:
 
 Backend Development: Exploring how things work behind the scenes.
+
 Artificial Intelligence: Fascinated by the potential of these areas.
+
 Problem Solving: I love challenges and finding efficient solutions.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maZero1&layout=compact&theme=merko&card_width=500)](https://github.com/maZero1/github-readme-stats)
