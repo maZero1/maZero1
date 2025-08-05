@@ -1,12 +1,13 @@
-Olá, sou Marlon! 👋
-Bem-vindo ao meu GitHub! Sou estudante de programação fascinado por tecnologia e sempre em busca de novos aprendizados. Estou no início da minha jornada, cursando Engenharia de Software na UDESC, mas muito empolgado para criar e colaborar em projetos incríveis.
+Hello, I'm Marlon! 👋
+Welcome to my GitHub! I'm a programming student fascinated by technology and always in search of new things to learn. I'm at the beginning of my journey, studying Software Engineering at UDESC, but very excited to create and collaborate on amazing projects.
 
-🚀 O Que Eu Faço
-Atualmente, estou focado em aprimorar minhas habilidades em Java, explorando conceitos de Programação Orientada a Objetos (POO). Tenho grande interesse em desenvolvimento de software e programação competitiva, estou sempre buscando maneiras de aplicar e aprimorar o que aprendo no curso e em projetos práticos.
+🚀 What I Do
+I'm currently focused on improving my skills in Java, exploring Object-Oriented Programming (OOP) concepts. I have a great interest in software development and competitive programming and am always looking for ways to apply and improve what I learn in my course and in practical projects.
 
-✨ Meus Interesses:
-- Desenvolvimento Backend: Explorando como as coisas funcionam por trás das cenas.
-- Inteligência Artificial: Fascinado pelo potencial dessas áreas.
-- Resolução de Problemas: Adoro desafios e encontrar soluções eficientes.
+✨ My Interests:
+
+Backend Development: Exploring how things work behind the scenes.
+Artificial Intelligence: Fascinated by the potential of these areas.
+Problem Solving: I love challenges and finding efficient solutions.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maZero1&layout=compact&theme=merko&card_width=500)](https://github.com/maZero1/github-readme-stats)
