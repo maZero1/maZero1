@@ -8,7 +8,7 @@ I'm currently focused on improving my skills in Java, exploring Object-Oriented 
 
 - Backend Development: Exploring how things work behind the scenes.  
 - Artificial Intelligence: Fascinated by the potential of these areas.  
-- Problem Solving: I love challenges and finding efficient solutions.  
+- Problem Solving: I love challenges and finding efficient solutions.
 
 ---
 
@@ -39,4 +39,6 @@ Aqui estão as principais linguagens e tecnologias que utilizo no meu dia a dia 
 - **Python:** Usado em automações, lógica, scripts e estudos de Inteligência Artificial.  
 
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazero1&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
