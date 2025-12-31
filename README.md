@@ -18,28 +18,38 @@ I'm currently focused on improving my skills in Java, exploring Object-Oriented 
 
 #### 🌐 Tech Stack Overview
 
-Aqui estão as principais linguagens e tecnologias que utilizo no meu dia a dia de estudos e projetos:
+Here are the main languages and technologies I use in my daily studies and projects:
 
 ---
 
 ### 🛠️ Badges
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ### 📝 Description of Languages
 
-- **Java:** Minha linguagem principal para desenvolvimento backend e modelagem orientada a objetos.  
-- **HTML:** Base para construção de interfaces e estruturação de páginas.  
-- **JavaScript:** Focado em interações web e integrações entre cliente e servidor.  
-- **Python:** Usado em automações, lógica, scripts e estudos de Inteligência Artificial.  
+- **Java:** My main language for backend development and object-oriented modeling.  
+- **HTML:** Foundation for building interfaces and structuring pages.  
+- **JavaScript:** Focused on web interactions and client-server integrations.  
+- **Python:** Used in automation, logic, scripts, and Artificial Intelligence studies.  
 
 </div>
 
 ## 📌 Contact Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlon_santoz11/)
+## 📌 Contact Me
+
+<a href="https://www.instagram.com/marlon_santoz11/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="mailto:tkmarlon594@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://discord.com/users/maZero1">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
