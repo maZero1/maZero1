@@ -42,8 +42,6 @@ Here are the main languages and technologies I use in my daily studies and proje
 
 ## 📌 Contact Me
 
-## 📌 Contact Me
-
 <a href="https://www.instagram.com/marlon_santoz11/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
