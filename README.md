@@ -16,16 +16,6 @@ I'm currently focused on improving my skills in Java, exploring Object-Oriented 
 
 ---
 
-# 🧩 Most Used Languages
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mazero1&show_icons=true&theme=tokyonight"/>
-
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mazero1&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 🌐 Tech Stack Overview
 
 Here are the main languages and technologies I use in my daily studies and projects:
