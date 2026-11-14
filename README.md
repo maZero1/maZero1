@@ -1,56 +1,65 @@
-# Hello, I'm Marlon! 👋  
+ <div align="center">
 
-Welcome to my GitHub! I'm a programming student fascinated by technology and always in search of new things to learn. I'm at the beginning of my journey, studying Software Engineering at UDESC, but very excited to create and collaborate on amazing projects.
+# MARLON
 
----
+**Data Analyst | Software Developer**
 
-## 🚀 What I Do  
+Data · Engineering · Technology
 
-I'm currently focused on improving my skills in Java, exploring Object-Oriented Programming (OOP) concepts. I have a great interest in software development and competitive programming and am always looking for ways to apply and improve what I learn in my course and in practical projects.
+[GitHub](https://github.com/maZero1) · [Instagram](https://www.instagram.com/marlon_santoz11/) · [Email](mailto:tkmarlon594@gmail.com)
 
-### ✨ My Interests
-
-- Backend Development: Exploring how things work behind the scenes.  
-- Artificial Intelligence: Fascinated by the potential of these areas.  
-- Problem Solving: I love challenges and finding efficient solutions.
+</div>
 
 ---
 
-# 🌐 Tech Stack Overview
+## About Me
 
-Here are the main languages and technologies I use in my daily studies and projects:
+I'm a Data Analyst with a strong interest in software engineering, technology and problem-solving.
 
-## 🛠️ Badges
+My professional experience involves working with data and developing solutions using different technologies. Beyond my current role, I'm constantly exploring new areas, particularly backend development, cybersecurity and mobile development.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+I value continuous learning, collaboration and taking initiative. I enjoy understanding complex problems, sharing knowledge and contributing to solutions that make a difference.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## Areas of Interest
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+| Area | Focus |
+|---|---|
+| Data & Analytics | Data analysis, databases and information systems |
+| Backend Development | APIs, software architecture and server-side development |
+| Cybersecurity | Information security and system protection |
+| Mobile Development | Application development and mobile technologies |
+| Problem Solving | Algorithms, logical thinking and efficient solutions |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Tech Stack
+
+**Languages & Technologies**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-172417?style=flat-square&logo=openjdk&logoColor=9CCB9C" />
+  <img src="https://img.shields.io/badge/Python-172417?style=flat-square&logo=python&logoColor=9CCB9C" />
+  <img src="https://img.shields.io/badge/Kotlin-172417?style=flat-square&logo=kotlin&logoColor=9CCB9C" />
+  <img src="https://img.shields.io/badge/Delphi-172417?style=flat-square&logo=delphi&logoColor=9CCB9C" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-172417?style=flat-square&logo=oracle&logoColor=9CCB9C" />
+  <img src="https://img.shields.io/badge/JavaScript-172417?style=flat-square&logo=javascript&logoColor=9CCB9C" />
+  <img src="https://img.shields.io/badge/HTML5-172417?style=flat-square&logo=html5&logoColor=9CCB9C" />
+</p>
+
+## GitHub Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maZero1&layout=compact&hide_border=true&bg_color=0D1B0D&title_color=9CCB9C&text_color=D0DAD0&langs_count=8" />
+
+</div>
+
+## Contact
+
+<div align="center">
+
+[Instagram](https://www.instagram.com/marlon_santoz11/) · [Discord](https://discord.com/users/maZero1) · [Email](mailto:tkmarlon594@gmail.com)
 
 ---
 
-## 📝 Description of Languages
+<sub>Learning continuously. Building with purpose.</sub>
 
-- **Java:** My main language for backend development and object-oriented modeling.  
-- **HTML:** Foundation for building interfaces and structuring pages.  
-- **JavaScript:** Focused on web interactions and client-server integrations.  
-- **Python:** Used in automation, logic, scripts, and Artificial Intelligence studies.
-
----
-
-# 📌 Contact Me
-
-<a href="https://www.instagram.com/marlon_santoz11/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="mailto:tkmarlon594@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
-<a href="https://discord.com/users/maZero1">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
+</div>
